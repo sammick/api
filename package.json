@@ -1,0 +1,28 @@
+{
+  "name": "api",
+  "version": "1.0.1",
+  "description": "this is nothing",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abu Sufiyan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "cron": "^1.8.2",
+    "delay": "^5.0.0",
+    "express": "^4.17.1",
+    "instagram-id-to-url-segment": "0.0.0",
+    "instagram-web-api": "^2.2.2",
+    "lodash": "^4.17.21",
+    "lodash-id": "^0.14.0",
+    "lowdb": "^1.0.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "shortid": "^2.2.16",
+    "sort-keys": "^5.0.0",
+    "tough-cookie-filestore2": "^1.0.0"
+  }
+}
