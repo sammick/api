@@ -89,7 +89,7 @@ var CronJob = require('cron').CronJob;
                         console.log('getting states...................')
                         o = {...o, ...getState};
                         res.json(o);
-    
+                        return;
                     }
                     break;
     

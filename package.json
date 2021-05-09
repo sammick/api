@@ -4,6 +4,7 @@
   "description": "this is nothing",
   "main": "api.js",
   "scripts": {
+    "start": "node api",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abu Sufiyan",
